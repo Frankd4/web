@@ -1,5 +1,52 @@
 
- .main_background {
+
+.main_background {
         background-color: #0081C6;
         color: white;
+    }
+    caption {
+        caption-side: top;
+    }
+    .mt-0 {
+        margin-bottom: 0 !important;
+    }
+    .white_link a {
+        color: #fff !important;
+        text-decoration: none;
+        margin-left: 5px;
+        padding-left: 3px;
+        padding-right: 3px;
+    }
+    .small {
+        font-size: 14px;
+    }
+    table, th, td {
+        padding: 1px !important;
+    }
+    * {
+        border-radius: 0 !important;
+    }
+
+   .followup_background {
+        background-color: #d36239;
+        color: white;
+    }
+    .followup_link {
+        color: white
+    }
+
+    .escalation_background {
+        background-color: #B0494B;
+        color: white;
+    }
+    .escalation_link {
+        color: white
+    }
+  .collab_background {
+        background-color: #00ad7c;
+        color: white;
+    }
+
+   .collab_link {
+        color: white
     }
