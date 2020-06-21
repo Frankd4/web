@@ -1,13 +1,12 @@
-
-
 .main_background {
         background-color: #0081C6;
         color: white;
     }
-
 .main_title_background{
         background-color: #49b6ff;
         color: white;
+	padding-top: 3px;
+        padding-bottom: 3px;
  }
     .mt-0 {
         margin-bottom: 0 !important;
@@ -27,17 +26,17 @@
     * {
         border-radius: 0 !important;
     }
-
    .followup_background {
         background-color: #d36239;
         color: white;
     }
-.followup_title{
+.followup_title_background{
         background-color: #ff7e67;
         color: white;
+	padding-top: 3px;
+        padding-bottom: 3px;
  }
     
-
     .escalation_background {
         background-color: #B0494B;
         color: white;
@@ -45,15 +44,17 @@
 .esclation_title_background{
         background-color: #d16666;
         color: white;
+	padding-top: 3px;
+        padding-bottom: 3px;
  }
    
   .collab_background {
         background-color: #00ad7c;
         color: white;
     }
-
 .collab_title_background{
         background-color: #52d681;
         color: white;
+	padding-top: 3px;
+        padding-bottom: 3px;
  }
-  
