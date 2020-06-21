@@ -59,7 +59,7 @@
         padding-bottom: 3px;
  }
 
-#flashtext19
+[id*="flash"]
 {
 	color:white !important;
 }
