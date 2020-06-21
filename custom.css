@@ -1,3 +1,4 @@
+
 .main_background {
         background-color: #0081C6;
         color: white;
@@ -5,7 +6,7 @@
 .main_title_background{
         background-color: #49b6ff;
         color: white;
-	padding-top: 3px;
+		padding-top: 3px;
         padding-bottom: 3px;
  }
     .mt-0 {
@@ -33,7 +34,7 @@
 .followup_title_background{
         background-color: #ff7e67;
         color: white;
-	padding-top: 3px;
+		padding-top: 3px;
         padding-bottom: 3px;
  }
     
@@ -41,10 +42,10 @@
         background-color: #B0494B;
         color: white;
     }
-.escalation_title_background{
+.esclation_title_background{
         background-color: #d16666;
         color: white;
-	padding-top: 3px;
+		padding-top: 3px;
         padding-bottom: 3px;
  }
    
@@ -55,20 +56,24 @@
 .collab_title_background{
         background-color: #52d681;
         color: white;
-	padding-top: 3px;
+		padding-top: 3px;
         padding-bottom: 3px;
  }
-
+ 
+ 
  [id*="flash"]
 {
 	color:yellow !important;
 }
 
+ 
 
 #caseidlink a{
    color: #212529 !important;
     background-color: #f8f9fa;
     padding: .25em .4em;
+	margin-left:5%;
+	margin-right:-3%;
     font-size: 75%;
     font-weight: 700;
     line-height: 1;
@@ -79,6 +84,35 @@
     border-radius: .25rem;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
 } 
+
+#icmidlink a{
+   color: #212529 !important;
+    background-color: #f8f9fa;
+    padding: .25em .4em;
+	margin-left:8%;
+	margin-right:-6%;
+    font-size: 75%;
+    font-weight: 700;
+    line-height: 1;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: baseline;
+    horizontal-align:middle;
+    border-radius: .25rem;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+} 
+
+.badge:hover {
+  color: #ffffff !important;
+  background-color: #f89406 !important;
+  text-decoration: none;
+}
+
+.badge-light:hover{
+  color: #ffffff;
+  background-color: #f89406;
+  text-decoration: none;
+}
 
 #caseidlink a:hover{
 color: #212529!important;
