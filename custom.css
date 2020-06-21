@@ -4,22 +4,23 @@
         background-color: #0081C6;
         color: white;
     }
-    caption {
-        caption-side: top;
-    }
+
+.main_title_background{
+        background-color: #49b6ff;
+        color: white;
+ }
     .mt-0 {
         margin-bottom: 0 !important;
     }
-    .white_link a {
+    
+.white_color_link a {
         color: #fff !important;
         text-decoration: none;
         margin-left: 5px;
         padding-left: 3px;
         padding-right: 3px;
     }
-    .small {
-        font-size: 14px;
-    }
+    
     table, th, td {
         padding: 1px !important;
     }
@@ -31,22 +32,28 @@
         background-color: #d36239;
         color: white;
     }
-    .followup_link {
-        color: white
-    }
+.followup_title{
+        background-color: #ff7e67;
+        color: white;
+ }
+    
 
     .escalation_background {
         background-color: #B0494B;
         color: white;
     }
-    .escalation_link {
-        color: white
-    }
+.esclation_title_background{
+        background-color: #d16666;
+        color: white;
+ }
+   
   .collab_background {
         background-color: #00ad7c;
         color: white;
     }
 
-   .collab_link {
-        color: white
-    }
+.collab_title_background{
+        background-color: #52d681;
+        color: white;
+ }
+  
