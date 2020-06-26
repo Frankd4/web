@@ -12,6 +12,11 @@
     .mt-0 {
         margin-bottom: 0 !important;
     }
+
+#f1
+{font-size:10px; !important;}
+
+
     
 .white_color_link a {
         color: #fff !important;
