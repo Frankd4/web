@@ -16,7 +16,9 @@
 #f1
 {font-size:10px; !important;}
 
-
+.badgeeditchangetransfer_width
+	{width:44px;
+	}
     
 .white_color_link a {
         color: #fff !important;
