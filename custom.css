@@ -72,6 +72,7 @@
  
 table, th, td {
         padding: 1px !important;
+	vertical-align: middle !important;
     }
 
 
