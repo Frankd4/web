@@ -10,7 +10,7 @@
 
 Our default branch is for development of our upcoming Bootstrap 5 release.
 
-> ### ==``v1.1.0.36``== Production Build, 19th June 2020
+> ### `v1.1.0.36` Production Build, 19th June 2020
 - DTM icon hint for files present (case menu, case editor)
 
 > ### v1.1.0.35 Alpha Build, 17th June 2020
@@ -24,3 +24,7 @@ Our default branch is for development of our upcoming Bootstrap 5 release.
 > - Fixes for SLA/NewCase ping/notification
 > - Additional form and splitter position persistence
 > - Minor bug fixes
+
+
+<div class="alert alert-block alert-info">
+<b>Tip:</b> Use blue boxes (alert-info) for tips and notes.</div>
