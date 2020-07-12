@@ -1,5 +1,5 @@
 languageCode:           "en"
-title:                  "Bootstrap"
+title:                  "Casebuddy"
 baseURL:                "https://v5.getbootstrap.com"
 enableInlineShortcodes: true
 
