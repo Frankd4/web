@@ -1,12 +1,8 @@
-<p align="center">
-  <a href="https://v5.getbootstrap.com/">
-    <img src="https://v5.getbootstrap.com/docs/5.0/assets/brand/bootstrap-logo-shadow.png" alt="Bootstrap logo" width="200" height="165">
-  </a>
-</p>
+ 
 
-<h3 align="center">CaseBuddy</h3>
+<h3 align="center" style="background-color:#05ffb0;">CaseBuddy - Release Notes</h3>
 
-## Bootstrap 4
+---
 
 Our default branch is for development of our upcoming Bootstrap 5 release.
 
@@ -24,7 +20,3 @@ Our default branch is for development of our upcoming Bootstrap 5 release.
 > - Fixes for SLA/NewCase ping/notification
 > - Additional form and splitter position persistence
 > - Minor bug fixes
-
-
-<div class="alert alert-block alert-info">
-<b>Tip:</b> Use blue boxes (alert-info) for tips and notes.</div>
