@@ -4,8 +4,6 @@
 
 ---
 
-Our default branch is for development of our upcoming Bootstrap 5 release.
-
 > ### `v1.1.0.36` Production Build, 19th June 2020
 - DTM icon hint for files present (case menu, case editor)
 
